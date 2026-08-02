@@ -10,41 +10,41 @@
       "name": "EeveeSpotifyReincarnated",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/3j06is.ipa",
+      "downloadURL": "https://files.catbox.moe/3menyd.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.60, EeveeSpotify Version: 6.6.6 Unpatched Version, pls use this if on Altstore/Sidestore, free cert",
+      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7 Unpatched Version, pls use this if on Altstore/Sidestore, free cert",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
       ],
-      "size": 250000000,
+      "size": 130000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.60",
-      "versionDate": "2026-06-28",
-      "versionDescription": "Updated to Spotify v9.1.60, Full release notes on github"
+      "version": "9.1.68",
+      "versionDate": "2026-08-02",
+      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
     },
     {
       "name": "EeveeSpotifyReincarnated(PATCHED)",
       "bundleIdentifier": "com.spotify.client.patched",
       "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/w8thzm.ipa",
+      "downloadURL": "https://files.catbox.moe/kz41mu.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.60, EeveeSpotify Version: 6.6.6. Patched version, use this only if you're using paid cert, jailbroken, or trollstore",
+      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7. Patched version, use this only if you're using paid cert, jailbroken, or trollstore",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
       ],
-      "size": 254000000,
+      "size": 13000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.60",
-      "versionDate": "2026-06-28",
-      "versionDescription": "Updated to Spotify v9.1.60, Full release notes on github"
+      "version": "9.1.68",
+      "versionDate": "2026-08-02",
+      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
     }
   ],
   "userInfo": {}
