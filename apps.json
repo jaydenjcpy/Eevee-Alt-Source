@@ -1,78 +1,66 @@
 {
-  "name": "Jayden's EeveeSpotify IPAs Repo",
-  "identifier": "com.jayden.eevee.source",
-  "subtitle": "EeveeSpotify latest ipas",
-  "description": "My latest updates for EeveeSpotify \n -My Telegram Channel: https://t.me/compiledipas",
-  "iconURL": "https://files.catbox.moe/9fgova.JPG",
-  "sourceURL": "https://github.com/jaydenjcpy/Eevee-Alt-Source/raw/refs/heads/main/apps.json",
+  "name": "SideloadLabs Repo",
+  "identifier": "com.sideloadlabs.source",
+  "subtitle": "SideloadLabs latest ipas",
+  "description": "SideloadLabs' ipa files \n -Our Telegram Channel: https://t.me/compiledipas",
+  "iconURL": "https://avatars.githubusercontent.com/u/312393257?s=96&v=4",
+  "sourceURL": "",
   "apps": [
     {
       "name": "EeveeSpotifyReincarnated",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/kcwpzv.ipa",
+      "developerName": "SideloadLabs",
+      "downloadURL": "https://files.catbox.moe/zwcn1o.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7 Unpatched Version, pls use this if on Altstore/Sidestore, free cert",
-      "screenshotURLs": [
-        "https://github.com/SideloadLabs/EeveeSpotifyReincarnated/blob/Master/Images/banner.png",
-      ],
+      "localizedDescription": "Spotify Version: v9.1.74, EeveeSpotify Version: 6.6.8 Unpatched Version, pls use this if on Altstore/Sidestore, free cert",
       "size": 130000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.68",
-      "versionDate": "2026-08-02",
-      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
+      "version": "9.1.74",
+      "versionDate": "2026-08-19",
+      "versionDescription": "Updated to Spotify v9.1.74, Full release notes on github"
     },
     {
       "name": "EeveeSpotifyReincarnated(PATCHED)",
       "bundleIdentifier": "com.spotify.client.patched",
-      "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/12sz4d.ipa",
+      "developerName": "SideloadLabs",
+      "downloadURL": "https://files.catbox.moe/6i8e6c.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7. Patched version, use this only if you're using paid cert, jailbroken, or trollstore",
-      "screenshotURLs": [
-        "https://github.com/SideloadLabs/EeveeSpotifyReincarnated/blob/Master/Images/banner.png",
-      ],
+      "localizedDescription": "Spotify Version: v9.1.74, EeveeSpotify Version: 6.6.8. Patched version, use this only if you're using paid cert, jailbroken, or trollstore",
       "size": 13000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.68",
-      "versionDate": "2026-08-02",
-      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
+      "version": "9.1.74",
+      "versionDate": "2026-08-19",
+      "versionDescription": "Updated to Spotify v9.1.74, Full release notes on github"
     },
     {
       "name": "ESR Liquid Glass",
       "bundleIdentifier": "com.spotify.client.lg",
-      "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/p3lkyd.ipa",
+      "developerName": "SideloadLabs",
+      "downloadURL": "https://files.catbox.moe/bpqle0.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7. Unpatched Liquid Glass version, use this only if you're using paid cert, jailbroken, or trollstore",
-      "screenshotURLs": [
-        "https://github.com/SideloadLabs/EeveeSpotifyReincarnated/blob/Master/Images/banner.png",
-      ],
+      "localizedDescription": "Spotify Version: v9.1.74, EeveeSpotify Version: 6.6.8. Unpatched Liquid Glass version, use this only if you're using paid cert, jailbroken, or trollstore",
       "size": 13000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.68",
-      "versionDate": "2026-08-03",
-      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
+      "version": "9.1.74",
+      "versionDate": "2026-08-19",
+      "versionDescription": "Updated to Spotify v9.1.74, Full release notes on github"
     },
     {
       "name": "ESR Liquid Glass Patched",
       "bundleIdentifier": "com.spotify.client.lg.patch",
-      "developerName": "jaydenjcpy & faroukbmiled & Mod4",
-      "downloadURL": "https://files.catbox.moe/deprwm.ipa",
+      "developerName": "SideloadLabs",
+      "downloadURL": "https://files.catbox.moe/kqvf0d.ipa",
       "iconURL": "https://files.catbox.moe/9fgova.JPG",
-      "localizedDescription": "Spotify Version: v9.1.68, EeveeSpotify Version: 6.6.7. Patched Liquid Glass version, use this only if you're using paid cert, jailbroken, or trollstore",
-      "screenshotURLs": [
-        "https://github.com/SideloadLabs/EeveeSpotifyReincarnated/blob/Master/Images/banner.png",
-      ],
+      "localizedDescription": "Spotify Version: v9.1.74, EeveeSpotify Version: 6.6.8. Patched Liquid Glass version, use this only if you're using paid cert, jailbroken, or trollstore",
       "size": 13000000,
       "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "tintColor": "1DB954",
-      "version": "9.1.68",
-      "versionDate": "2026-08-03",
-      "versionDescription": "Updated to Spotify v9.1.68, Full release notes on github"
+      "version": "9.1.74",
+      "versionDate": "2026-08-19",
+      "versionDescription": "Updated to Spotify v9.1.74, Full release notes on github"
     }
   ],
   "userInfo": {}
